@@ -2,6 +2,8 @@
 
 prompt("Your Name");
 
+prompt("Patner Name");
+
 var rand = Math.random() * 100;
 
 rand = Math.floor(rand) + 1;
