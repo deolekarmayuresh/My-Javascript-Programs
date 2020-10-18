@@ -11,7 +11,7 @@ rand = Math.floor(rand) + 1;
 // console.log(rand)
 
 if(rand >= 75){
-    alert("Your Love score is " + rand + "%" + " Your love is like Romeo and Juliet");    
+    alert("Your Love score is " + rand + "%" + " Best Couples like Romeo & Juliet");    
 }
 else{
     alert("Your Love score is " + rand + "%");
