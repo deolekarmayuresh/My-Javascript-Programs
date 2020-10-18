@@ -2,7 +2,7 @@
 
 prompt("Your Name");
 
-prompt("Patner Name");
+prompt("Partner Name");
 
 var rand = Math.random() * 100;
 
